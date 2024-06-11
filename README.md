@@ -52,7 +52,7 @@ You can reach me via:
 [![trophy](https://github-profile-trophy.vercel.app/?username=abuiron&theme=matrix&rank=S,SS,SSS,A,AA,AAA,B,C&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Github Readme Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuiron&show=prs_merged,prs_merged_percentage&hide=issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuiron&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true&theme=radical)
  
  ### ABUTHAKIR'S github activity graph
 [![ABUTHAKIR'S github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abuiron&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
