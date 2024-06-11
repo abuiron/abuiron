@@ -1,4 +1,4 @@
-# 👋<img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"> Ore Wa  ✌Mr.ABUTHAKIR S..!✌
+# <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"> Ore Wa  ✌Mr.ABUTHAKIR S..!✌
 
 FULL STACK DEVELOPER 
  <img align="right" width="370"  height="290" src="https://tenor.com/view/who-asked-gif-25956246.gif" />
