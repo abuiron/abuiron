@@ -52,7 +52,7 @@ You can reach me via:
 [![trophy](https://github-profile-trophy.vercel.app/?username=abuiron&theme=matrix&rank=S,SS,SSS,A,AA,AAA,B,C&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuiron&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true&theme=radical)            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuiron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuiron&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true&theme=radical)            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuiron&layout=compact&margin-w=20)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
