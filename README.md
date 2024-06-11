@@ -12,7 +12,7 @@ FULL STACK DEVELOPER
 - Data Structures and Algorithms (DSA)
 - MERN Full Stack Development
 
-## 👯 Looking to Collaborate On
+## 👀 Looking to Collaborate On
 
 I'm open to collaborating on projects related to Front-end development, Back-end development, Database development, as well as Full Stack Development (FSD).
 
@@ -36,7 +36,7 @@ You can reach me via:
 - In my free time, I enjoy exploring new technologies👨🏽‍💻 and working on personal projects.
 
 
-- 🤖 Pronouns: Iron.
+- 🤖 Pronouns: Abu Iron.
 - 😎 Fun fact: I'm half Batman🦇 and half Spiderman! 🕷️
 
   Let's connect and explore the exciting world of technology together!
@@ -49,10 +49,10 @@ You can reach me via:
 ### IDE and Tools I Use
 <img height="60" width="60" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="60" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="60" width="60" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="60" height="60" src="https://img.icons8.com/fluency/48/000000/github.png" alt="github"/> <img width="60" height="60" src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="postman-api"/> <img width="60" height="60" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/>  <img height="60" width="60" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img width="60" height="60" src="https://img.icons8.com/ios-filled/50/40C057/right-footprint.png" alt="right-footprint"/>  <img width="60" height="60" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/> <img width="60" height="60" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 ### Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=abuiron&theme=matrix&title=Repositories,Commits)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abuiron&theme=matrix&rank=S,SS,SSS,A,AA,AAA)](https://github.com/ryo-ma/github-profile-trophy)
  
  ### ABUTHAKIR'S github activity graph
-[![ABUTHAKIR's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abuiron&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ABUTHAKIR'S github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abuiron&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!---
