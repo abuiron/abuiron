@@ -1,7 +1,7 @@
 # 👋 Ore Wa  ✌Mr.ABUTHAKIR S..!✌
 
 FULL STACK DEVELOPER 
- <img align="right" width="370" height="290" src="https://tenor.com/view/who-asked-gif-25956246.gif" />
+ <img align="right" width="370" style="border:1px solid" height="290" src="https://tenor.com/view/who-asked-gif-25956246.gif" />
 
 
 
