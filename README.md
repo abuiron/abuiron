@@ -18,7 +18,7 @@ I'm open to collaborating on projects related to Front-end development, Back-end
 
 ## 🤔 Seeking Help With
 
-I'm currently seeking guidance and assistance with placements in FAANG companies.
+I'm currently seeking guidance and assistance with placements in MAANG companies.
 
 ## 💬 Ask Me About
 
@@ -43,7 +43,7 @@ You can reach me via:
 
 
 ### Skills
-<img height="60" width="60" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img height="60" width="60" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img width="60" height="60" src="https://img.icons8.com/officel/40/react.png" alt="react"/> <img width="60" height="60" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
+<img height="60" width="60" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img height="60" width="60" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img width="60" height="60" src="https://img.icons8.com/officel/40/react.png" alt="react"/> <img width="60" height="60" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/> <img width="60" height="60" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/> <img width="60" height="60" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/> <img width="60" height="60" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
 <img height="60" width="60" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img width="60" height="60" src="https://img.icons8.com/parakeet/48/php.png" alt="php"/> <img width="60" height="60" src="https://img.icons8.com/papercut/60/json.png" alt="json"/> <img width="60" height="60" src="https://img.icons8.com/cute-clipart/64/api.png" alt="api"/><img width="60" height="60" src="https://img.icons8.com/fluency/48/networking-manager.png" alt="networking-manager"/>
 
 ### IDE and Tools I Use
